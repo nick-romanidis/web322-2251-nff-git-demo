@@ -10,6 +10,7 @@ app.use(express.static(path.join(__dirname, "/assets")));
 // Set up EJS
 app.set("view engine", "ejs");
 app.set("layout", "layouts/main");
+app.set('views', path.join(__dirname, '/views'));
 app.use(expressLayouts);
 
 // Load the controllers into express
