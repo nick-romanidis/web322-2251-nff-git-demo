@@ -10,9 +10,9 @@ const employees = [
     {
         name: 'Frank',
         age: 40,
-        occupation: 'Manager',
+        occupation: 'Director',
         company: 'RBC',
-        visible: false,
+        visible: true,
         imageUrl: "man3.jpg"
     },
     {
