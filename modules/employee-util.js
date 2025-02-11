@@ -19,7 +19,7 @@ const employees = [
         name: 'Jane',
         age: 24,
         occupation: 'Manager',
-        company: 'RBC',
+        company: 'Scotiabank',
         visible: true,
         imageUrl: "woman1.jpg"
     }
