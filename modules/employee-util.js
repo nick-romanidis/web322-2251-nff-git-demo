@@ -17,7 +17,7 @@ const employees = [
     },
     {
         name: 'Jane',
-        age: 23,
+        age: 24,
         occupation: 'Manager',
         company: 'RBC',
         visible: true,
